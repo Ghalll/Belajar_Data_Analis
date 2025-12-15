@@ -15,7 +15,7 @@ import pandas as pd
   
   Digunakan untuk membaca file dengan ekstensi **csv**
 
-  Contoh code
+  Contoh code :
 
   ```bash
   data = pd.read_csv('namafile.csv')
@@ -25,7 +25,7 @@ import pandas as pd
   
   Digunakan untuk membaca file dengan ekstensi **xlsl**
 
-  Contoh code
+  Contoh code :
 
   ```bash
   data = pd.read_excel('namafile.xlsl')
