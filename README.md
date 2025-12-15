@@ -6,4 +6,7 @@ Adalah kegiatan untuk mengumpulkan, membersihkan, menganalisis data lalu memvisu
 
 Pertama perlu install beberapa library berikut :
 
-1. ```bash pip install pandas ```
+1. **Pandas**
+```bash
+pip install pandas
+```
