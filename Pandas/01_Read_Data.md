@@ -1,6 +1,11 @@
 # Pandas
 
 Library Pandas digunakan untuk membaca file, bisa file dengan ekstensi `.csv` atau ekstensi `,xlsl`
+contoh code untuk mengimport lilbrary pandas
+
+```bash
+import pandas as pd
+```
 
 ### Fungsi Read Data
 
