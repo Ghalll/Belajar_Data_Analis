@@ -6,19 +6,19 @@ Adalah kegiatan untuk mengumpulkan, membersihkan, menganalisis data lalu memvisu
 
 Pertama perlu install beberapa library berikut :
 
-1. **Pandas**
+1**Pandas**
 
 ```bash
 pip install pandas
 ```
 
-2. **Numpy**
+2**Numpy**
 
 ```bash
 pip install numpy
 ```
 
-3. **Matplotlib**
+3**Matplotlib**
 
 ```bash
 pip install matplotlib
