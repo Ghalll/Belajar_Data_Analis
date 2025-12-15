@@ -7,7 +7,7 @@
 - `plt.plot()`  
   Membuat **grafik garis** (line chart)
  
-  <p align="center">
+  <p align="left">
   <img src="../asset/line.png" width="500">
   </p>
 
