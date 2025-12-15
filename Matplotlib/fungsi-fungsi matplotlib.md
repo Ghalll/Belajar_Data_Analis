@@ -17,5 +17,7 @@
 - `plt.scatter()`  
   Membuat **grafik titik** (scatter plot)
 
+  ![Grafik](../asset/titik.png)
+
 - `plt.hist()`  
   Membuat **grafik histogram**
