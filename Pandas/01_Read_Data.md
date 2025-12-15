@@ -3,7 +3,7 @@
 **Fungsi Read Data**
 
 - `read_csv`
-  digunakan untuk membaca file dengan ekstensi ```.csv
+  digunakan untuk membaca file dengan ekstensi ```csv
 
 - `read_excel`
-  Digunakan untuk membaca file dengan ekstensi ```.xlsl
+  Digunakan untuk membaca file dengan ekstensi ```xlsl
