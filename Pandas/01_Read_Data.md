@@ -13,8 +13,18 @@ import pandas as pd
 
 - `read_csv`
   
-  Digunakan untuk membaca file dengan ekstensi ```csv```
+  Digunakan untuk membaca file dengan ekstensi **csv**
+  Contoh code
+
+  ```bash
+  data = pd.read_csv('namafile.csv')
+  ```
 
 - `read_excel`
   
-  Digunakan untuk membaca file dengan ekstensi ```xlsl```
+  Digunakan untuk membaca file dengan ekstensi **xlsl**
+  Contoh code
+
+  ```bash
+  data = pd.read_excel('namafile.xlsl')
+  ```
