@@ -2,7 +2,7 @@
 
 **Matplotlib** adalah library Python yang digunakan untuk memvisualisasikan data ke dalam berbagai bentuk grafik.
 
-### Fungsi Dasar Gaya Grafik
+### Fungsi Gaya Grafik
 
 - `plt.plot()`  
   Membuat **grafik garis** (line chart)
