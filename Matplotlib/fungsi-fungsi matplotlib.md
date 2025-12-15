@@ -23,3 +23,23 @@
   Membuat **grafik histogram**
 
   ![Grafik](../asset/historam.png)
+
+  
+### Fungsi Lainnya
+
+- `plt.show()`  
+  Menampilkan jendela grafik ke layar
+
+- `plt.xlabel()`  
+  Memberi **label pada sumbu X**
+
+- `plt.ylabel()`  
+  Memberi **label pada sumbu Y**
+
+- `plt.title()`  
+  Memberi **judul pada grafik**
+
+- `plt.grid()`  
+  Menampilkan **garis bantu (grid)** pada grafik
+
+ 
