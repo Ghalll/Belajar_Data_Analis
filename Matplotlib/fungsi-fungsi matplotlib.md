@@ -7,6 +7,8 @@
 - `plt.plot()`  
   Membuat **grafik garis** (line chart)
   ![Grafik Garis Matplotlib](asset/asset/Annotation 2025-12-15 160113.png)
+  <img src="asset/Annotation 2025-12-15 160113.png" width="500">
+
 
 - `plt.bar()`  
   Membuat **grafik batang** (bar chart)
