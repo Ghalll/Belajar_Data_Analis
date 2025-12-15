@@ -12,13 +12,13 @@ Pertama perlu install beberapa library berikut :
 pip install pandas
 ```
 
-2. **Numpy***
+2. **Numpy**
 
 ```bash
 pip install numpy
 ```
 
-3. ***Matplotlib***
+3. **Matplotlib**
 
 ```bash
 pip install matplotlib
