@@ -2,7 +2,7 @@
 
 Library Pandas digunakan untuk membaca file, bisa file dengan ekstensi `.csv` atau ekstensi `,xlsl`
 
-**Fungsi Read Data**
+## Fungsi Read Data
 
 - `read_csv`
   
