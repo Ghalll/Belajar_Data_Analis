@@ -1,11 +1,17 @@
-# Matplotlib
-library yang digunakan untuk memvisualisaasikan data ke dalam bentuk grafik
+## 📊 Matplotlib
 
+**Matplotlib** adalah library Python yang digunakan untuk memvisualisasikan data ke dalam berbagai bentuk grafik.
 
-`plt.plot()` -> untuk membuat grafik garis
+### Fungsi Dasar
 
-`plt.bar()` -> untuk membuat grafik batang
+- `plt.plot()`  
+  Membuat **grafik garis** (line chart)
 
-`plt.scatter()` - > untuk membuat grafik titik-titik
+- `plt.bar()`  
+  Membuat **grafik batang** (bar chart)
 
-`plt.hist()` -> untuk membuat grafik histrogram
+- `plt.scatter()`  
+  Membuat **grafik titik** (scatter plot)
+
+- `plt.hist()`  
+  Membuat **grafik histogram**
