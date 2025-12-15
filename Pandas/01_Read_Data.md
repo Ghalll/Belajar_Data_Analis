@@ -1,4 +1,6 @@
-# Library Pandas digunakan untuk membaca file, bisa file dengan ekstensi `.csv` atau ekstensi `,xlsl`
+# Pandas
+
+Library Pandas digunakan untuk membaca file, bisa file dengan ekstensi `.csv` atau ekstensi `,xlsl`
 
 **Fungsi Read Data**
 
