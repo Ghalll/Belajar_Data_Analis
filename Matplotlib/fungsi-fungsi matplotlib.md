@@ -8,7 +8,7 @@
   Membuat **grafik garis** (line chart)
  
   <p align="center">
-  <img src="assets/line.png" width="500">
+  <img src="asset/line.png" width="500">
   </p>
 
 
