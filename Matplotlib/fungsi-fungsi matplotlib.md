@@ -7,12 +7,12 @@
 - `plt.plot()`  
   Membuat **grafik garis** (line chart)
 
-  <img src="../asset/line.png" width="500">
+  ![Grafik](../asset/line.png)
 
 - `plt.bar()`  
   Membuat **grafik batang** (bar chart)
 
-  <img src="../asset/bar.png" width="500">
+  ![Grafik](../asset/bar.png)
 
 - `plt.scatter()`  
   Membuat **grafik titik** (scatter plot)
@@ -21,3 +21,5 @@
 
 - `plt.hist()`  
   Membuat **grafik histogram**
+
+  ![Grafik](../asset/histogram.png)
