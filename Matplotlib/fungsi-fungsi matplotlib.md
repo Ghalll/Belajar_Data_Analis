@@ -1,5 +1,4 @@
 # Matplotlib
----
 library yang digunakan untuk memvisualisaasikan data ke dalam bentuk grafik
 
 
