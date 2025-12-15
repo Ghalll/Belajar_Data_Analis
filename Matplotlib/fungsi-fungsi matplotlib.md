@@ -22,4 +22,4 @@
 - `plt.hist()`  
   Membuat **grafik histogram**
 
-  ![Grafik](../asset/histogram.png)
+  ![Grafik](../asset/historam.png)
