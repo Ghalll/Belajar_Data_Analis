@@ -25,5 +25,6 @@ europe = {
 
     output = `dict_keys(['spain', 'france', 'germany', 'norway'])`
 
-- 
-- 
+- `print(europe.values())` = untuk mengakses values di data dictionary **europe**
+
+    output = `dict_values(['madrid', 'paris', 'berlin', 'oslo'])`
