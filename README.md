@@ -8,7 +8,7 @@ Pertama perlu install beberapa library berikut :
 
 1. **Pandas** (Load Data)
 
-Baca data, bersihin, filter, agregasi.
+Untuk baca data, bersihin, filter, agregasi.
 
 ```bash
 pip install pandas
@@ -24,7 +24,7 @@ pip install numpy
 
 3. **Matplotlib** (Visualisasi Dasar)
 
-Grafik line, bar, histogram, titik-titik.
+Untuk buat grafik line, bar, histogram, titik-titik dari data.
 
 ```bash
 pip install matplotlib
