@@ -24,7 +24,7 @@ Pertama perlu install beberapa library berikut :
 
 3. **Matplotlib** (Visualisasi Dasar)
    
-   Untuk buat grafik line, bar, histogram, titik-titik dari data.
+   Untuk buat grafik line, bar, histogram, dan scatter dari data.
    
    ```bash
    pip install matplotlib
