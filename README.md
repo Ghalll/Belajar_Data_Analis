@@ -8,7 +8,7 @@ Pertama perlu install beberapa library berikut :
 
 1. **Pandas** (Load Data)
 
-Untuk baca data, bersihin, filter, agregasi.
+   Untuk baca data, bersihin, filter, agregasi.
 
 ```bash
 pip install pandas
