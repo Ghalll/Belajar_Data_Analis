@@ -18,9 +18,9 @@ pip install pandas
 
 2. **Numpy**
 
-   Fondasi numerik.
+Fondasi numerik.
 
-   Dipakai buat array dan operasi matematika cepat.
+Dipakai buat array dan operasi matematika cepat.
 
 ```bash
 pip install numpy
