@@ -34,5 +34,5 @@ europe = {
     output = `oslo`
 
 - `europe.update({'italy':'rome'})` = untuk menambahkan **italy** ke dalam data **europe**
-- p
+
 
