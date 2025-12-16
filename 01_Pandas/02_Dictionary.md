@@ -18,3 +18,6 @@ europe = {
 `madrid` = adalah value.
 
 ---
+
+## Fungsi Dasar Dictionary
+
