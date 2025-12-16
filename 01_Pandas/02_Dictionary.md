@@ -16,4 +16,5 @@ europe = {
 `spain` = adalah key.
 
 `madrid` = adalah value.
+
 ---
