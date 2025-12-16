@@ -8,7 +8,9 @@ Pertama perlu install beberapa library berikut :
 
 1. **Pandas**
 
-Baca data,bersihin,filter,agregasi
+Kerja utama data analyst.
+
+Baca data, bersihin, filter, agregasi.
 
 ```bash
 pip install pandas
@@ -16,9 +18,9 @@ pip install pandas
 
 2. **Numpy**
 
-Fondasi numerik.
+   Fondasi numerik.
 
-Dipakai buat array dan operasi matematika cepat.
+   Dipakai buat array dan operasi matematika cepat.
 
 ```bash
 pip install numpy
