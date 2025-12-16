@@ -28,3 +28,11 @@ europe = {
 - `print(europe.values())` = untuk mengakses values di data dictionary **europe**
 
     output = `dict_values(['madrid', 'paris', 'berlin', 'oslo'])`
+
+- `print(europe['norway'])` = untuk mengakses value dari key **norway** pada data **europe**
+
+    output = `oslo`
+
+- `europe.update({'italy':'rome'})` = untuk menambahkan **italy** ke dalam data **europe**
+- p
+
