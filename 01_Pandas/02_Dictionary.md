@@ -21,3 +21,9 @@ europe = {
 
 ## Fungsi Dasar Dictionary
 
+- `print(europe.keys())` = untuk mengakses keys di data dictionary **europe**
+
+    output = `dict_keys(['spain', 'france', 'germany', 'norway'])`
+
+- 
+- 
