@@ -6,9 +6,7 @@ Adalah kegiatan untuk mengumpulkan, membersihkan, menganalisis data lalu memvisu
 
 Pertama perlu install beberapa library berikut :
 
-1. **Pandas**
-
-Kerja utama data analyst.
+1. **Pandas** (Load Data)
 
 Baca data, bersihin, filter, agregasi.
 
