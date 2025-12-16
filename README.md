@@ -14,9 +14,7 @@ Baca data, bersihin, filter, agregasi.
 pip install pandas
 ```
 
-2. **Numpy**
-
-Fondasi numerik.
+2. **Numpy** (Fondasi numerik)
 
 Dipakai buat array dan operasi matematika cepat.
 
