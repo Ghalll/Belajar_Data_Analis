@@ -6,13 +6,19 @@ Adalah kegiatan untuk mengumpulkan, membersihkan, menganalisis data lalu memvisu
 
 Pertama perlu install beberapa library berikut :
 
-1. **Pandas** -> Baca data,bersihin,filter,agregasi
+1. **Pandas**
+
+Baca data,bersihin,filter,agregasi
 
 ```bash
 pip install pandas
 ```
 
-2. **Numpy** -> Dipakai buay array dan operasi matematika.
+2. **Numpy**
+
+Fondasi numerik.
+
+Dipakai buat array dan operasi matematika cepat.
 
 ```bash
 pip install numpy
