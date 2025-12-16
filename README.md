@@ -22,19 +22,25 @@ Dipakai buat array dan operasi matematika cepat.
 pip install numpy
 ```
 
-3. **Matplotlib**
+3. **Matplotlib** (Visualisasi Dasar)
+
+Grafik line, bar, histogram, titik-titik.
 
 ```bash
 pip install matplotlib
 ```
 
-4. **Seaborn**
+4. **Seaborn** (Visual Statistik)
+
+Grafik lebih rapi dan cepat untuk EDA.
 
 ```bash
 pip install seaborn
 ```
 
-5. **Statsmodels**
+5. **Statsmodels** (Statistik serius)
+
+Regresi, uji hipotesis, time series.
 
 ```bash
 pip install statsmodels
