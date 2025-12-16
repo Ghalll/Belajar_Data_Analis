@@ -35,4 +35,17 @@ europe = {
 
 - `europe.update({'italy':'rome'})` = untuk menambahkan **italy** ke dalam data **europe**
 
+- `europe['spain'] = 'barca'` = untuk update value dari key **spain**
+
+- `del(europe['france'])` = untuk hapus **france** dari data **europe**
+
+
+
+
+
+
+
+
+
+
 
