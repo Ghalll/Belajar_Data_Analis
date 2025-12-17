@@ -39,7 +39,7 @@ europe = {
 - `del(europe['france'])` = untuk hapus **france** dari data **europe**
 
 
-# Lainya
+# Manipulasi Data
 
 1. **Sub-Dictionary**
 
@@ -52,7 +52,7 @@ europe = {
    ```bash
    # Dictionaty dalam dictionary
    country = { 'Indonesia' : {'Ibu kota':'Jakarta', 'Populasi':'200 juta'},
-               'Malaysia' : {'Ibu kota': 'Putra Jaya', 'Populasi':'36 juta'}
+               'Malaysia' : {'Ibu kota': 'Putra Jaya', 'Populasi':'36 juta'},
                'Thailand' : {'Ibu kota': 'Bangkok', 'Populasi':'71 juta'}
              }
 
@@ -63,4 +63,39 @@ europe = {
    country.update({'Vietnam':data})
    ```
 
-3. 
+2. **Memberi Label**
+    
+    ```bash
+
+    data = {'Ibu kota':'Hanoi', 'Populasi':'102 juta'}
+
+    # membuat data frame yang berarti ada 
+    df = pd.DataFrame(data)
+    
+    # ini membuat label untuk tiap data negara
+    row_labels = ['IND', 'MYS', 'TH', 'VN']
+
+    # lalu menjadikan label tadi sebagai index
+    df.index = row_labels
+    ```
+
+3.  **Mengakses Data Tertentu**
+
+    ```bash
+    data = {'Ibu kota':'Hanoi', 'Populasi':'102 juta'}
+
+    df = pd.DataFrame(data)
+
+    # ini mengakses hanya data ibu kota saja
+    print(df.loc[:,'Ibu kota'])
+
+    # ini mengakses hanya data populas saja
+    print(df.loc[:.'Populasi'])
+
+    # ini mengakses data populasi untuk Indonesia dan Malaysia
+    print(df.loc[['IND','MYS], ['Populasi']])
+    ```
+    
+4.  
+5. 
+
