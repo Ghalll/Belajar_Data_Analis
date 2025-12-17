@@ -19,7 +19,7 @@ europe = {
 
 ---
 
-## Fungsi Dasar Dictionary
+# Fungsi Dasar Dictionary
 
 - `print(europe.keys())` = untuk mengakses keys di data dictionary **europe**
 
@@ -39,13 +39,30 @@ europe = {
 
 - `del(europe['france'])` = untuk hapus **france** dari data **europe**
 
+---
 
+# Lainya
 
+1. **Sub-Dictionary**
 
+   Adalah membuat dictionary di dalam dictionary yang sudah ada.
 
+   Fungsi untuk buat ngatur data yang bertingkat dan saling berhubungan. Itu saja intinya.
 
+   Contoh : User → nama, email, role
 
+   ```bash
+   # Dictionaty dalam dictionary
+   country = { 'Indonesia' : {'Ibu kota':'Jakarta', 'Populasi':'200 juta'},
+               'Malaysia' : {'Ibu kota': 'Putra Jaya', 'Populasi':'36 juta'}
+               'Thailand' : {'Ibu kota': 'Bangkok', 'Populasi':'71 juta'}
+             }
 
+   # Membuat sub dictionary
+   data = {'Ibu kota':'Hanoi', 'Populasi':'102 juta'}
 
+   # Menambahkan vietnam ke dalam dictionary
+   country.update({'Vietnam':data})
+   ```
 
-
+3. 
