@@ -97,20 +97,20 @@ import pandas as pd
 
 2. **Menampilkan daftar nama kolom**
 
-  ```bash
-  import pandas as pd
-   
-  load_data = pd.read_csv('data/titanic.csv')
-       
-  print(load_data.columns) 
-  ```
+    ```bash
+    import pandas as pd
+     
+    load_data = pd.read_csv('data/titanic.csv')
+         
+    print(load_data.columns) 
+    ```
 
 3. **Menampilkan daftar index (label baris)**
 
-  ```bash
-  import pandas as pd
-   
-  load_data = pd.read_csv('data/titanic.csv')
-       
-  print(load_data.index)   
-  ```
+    ```bash
+    import pandas as pd
+     
+    load_data = pd.read_csv('data/titanic.csv')
+         
+    print(load_data.index)   
+    ```
