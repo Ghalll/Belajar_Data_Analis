@@ -86,14 +86,14 @@ import pandas as pd
 # Atribut Dasar
 
 1. **Mengambil semua data dalam bentuk array 2D**
-
-  ```bash
-  import pandas as pd
-   
-  load_data = pd.read_csv('data/titanic.csv')
-       
-  print(load_data.values)
-  ```
+  
+    ```bash
+    import pandas as pd
+     
+    load_data = pd.read_csv('data/titanic.csv')
+         
+    print(load_data.values)
+    ```
 
 2. **Menampilkan daftar nama kolom**
 
