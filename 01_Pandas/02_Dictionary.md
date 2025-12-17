@@ -17,7 +17,6 @@ europe = {
 
 `madrid` = adalah value.
 
----
 
 # Fungsi Dasar Dictionary
 
@@ -39,7 +38,6 @@ europe = {
 
 - `del(europe['france'])` = untuk hapus **france** dari data **europe**
 
----
 
 # Lainya
 
