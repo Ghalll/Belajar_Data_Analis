@@ -29,6 +29,16 @@ import pandas as pd
    ```bash
    data = pd.read_excel('namafile.xlsl')
    ```
+   
+3. `read_pickle`
+  
+  Digunakan unutuk membaca file dengan ekstensi **pkl**
+
+  Contoh code :
+
+  ```bash
+  data =pd.read_pickle('namafile.pkl')
+  ```
 
 # Inspeksi Data
 
