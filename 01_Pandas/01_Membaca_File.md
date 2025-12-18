@@ -37,7 +37,7 @@ import pandas as pd
     Contoh code :
   
     ```bash
-    data =pd.read_pickle('namafile.pkl')
+    data = pd.read_pickle('namafile.pkl')
     ```
 
 # Inspeksi Data
