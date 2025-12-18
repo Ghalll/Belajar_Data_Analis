@@ -12,23 +12,23 @@ import pandas as pd
 
 1. `read_csv`
   
-  Digunakan untuk membaca file dengan ekstensi **csv**
-
-  Contoh code :
-
-  ```bash
-  data = pd.read_csv('namafile.csv')
-  ```
+   Digunakan untuk membaca file dengan ekstensi **csv**
+  
+    Contoh code :
+  
+   ```bash
+   data = pd.read_csv('namafile.csv')
+   ```
 
 2. `read_excel`
   
-  Digunakan untuk membaca file dengan ekstensi **xlsl**
-
-  Contoh code :
-
-  ```bash
-  data = pd.read_excel('namafile.xlsl')
-  ```
+   Digunakan untuk membaca file dengan ekstensi **xlsl**
+  
+   Contoh code :
+  
+   ```bash
+   data = pd.read_excel('namafile.xlsl')
+   ```
 
 # Inspeksi Data
 
