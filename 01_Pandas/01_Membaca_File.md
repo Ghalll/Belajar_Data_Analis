@@ -124,3 +124,23 @@ import pandas as pd
          
     print(load_data.index)   
     ```
+
+# Manipulasi Data
+
+1. **Mengurutin data**
+
+   ```bash
+   homelessness_ind = homelessness.sort_values("individuals")
+   ```
+   
+3. **Ambil data pakai label + kondisi**
+
+   ```bash
+   df.loc[df['Age'] > 18, ['Name', 'Age']]
+   ```
+   
+5. **cek keanggotaan**
+
+   ```bash
+   south_mid_atlantic = homelessness[homelessness["region"].isin(["South Atlantic", "Mid-Atlantic"])]
+   ```
