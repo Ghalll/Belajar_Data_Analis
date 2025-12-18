@@ -32,13 +32,13 @@ import pandas as pd
    
 3. `read_pickle`
   
-  Digunakan unutuk membaca file dengan ekstensi **pkl**
-
-  Contoh code :
-
-  ```bash
-  data =pd.read_pickle('namafile.pkl')
-  ```
+    Digunakan unutuk membaca file dengan ekstensi **pkl**
+  
+    Contoh code :
+  
+    ```bash
+    data =pd.read_pickle('namafile.pkl')
+    ```
 
 # Inspeksi Data
 
