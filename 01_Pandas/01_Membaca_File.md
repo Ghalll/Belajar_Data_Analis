@@ -139,7 +139,7 @@ import pandas as pd
    df.loc[df['Age'] > 18, ['Name', 'Age']]
    ```
    
-5. **cek keanggotaan**
+5. **Cek keanggotaan**
 
    ```bash
    south_mid_atlantic = homelessness[homelessness["region"].isin(["South Atlantic", "Mid-Atlantic"])]
