@@ -90,12 +90,9 @@ europe = {
     print(df.loc[:,'Ibu kota'])
 
     # ini mengakses hanya data populas saja
-    print(df.loc[:.'Populasi'])
+    print(df.loc[:,'Populasi'])
 
     # ini mengakses data populasi untuk Indonesia dan Malaysia
     print(df.loc[['IND','MYS], ['Populasi']])
     ```
-    
-4.  
-5. 
 
