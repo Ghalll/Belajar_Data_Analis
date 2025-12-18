@@ -1,6 +1,6 @@
 # Pandas
 
-Library Pandas digunakan untuk membaca file, bisa file dengan ekstensi `.csv` atau ekstensi `.xlsl`
+Library Pandas digunakan untuk membaca file, bisa file dengan beberapa macam ekstensi.
 
 Contoh code untuk mengimport lilbrary pandas
 
