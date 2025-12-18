@@ -32,7 +32,7 @@ import pandas as pd
    
 3. `read_pickle`
   
-    Digunakan unutuk membaca file dengan ekstensi **pkl**
+    Digunakan untuk membaca file dengan ekstensi **pkl**
   
     Contoh code :
   
@@ -127,7 +127,7 @@ import pandas as pd
 
 # Manipulasi Data
 
-1. **Mengurutin data**
+1. **Mengurutkan data**
 
    ```bash
    homelessness_ind = homelessness.sort_values("individuals")
