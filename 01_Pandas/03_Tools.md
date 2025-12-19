@@ -6,9 +6,9 @@ Chapter ini akan menjelaskan tools-tools penting dalam Data Analyst
 
 1. **Nilai rata-rata**
   
-  ```bash
-  df["penjualan_mingguan"].mean()
-  ```
+    ```bash
+    df["penjualan_mingguan"].mean()
+    ```
 
 2. **Nilai tengah**
 
