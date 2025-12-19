@@ -28,7 +28,7 @@ Chapter ini akan menjelaskan tools-tools penting dalam Data Analyst
    df["penjualan_mingguan"].min()
    ```
 
-5. **Nilai Standar**
+5. **Nilai Standar Deviasi**
    = ini digunakan untuk mencari nilai yang tersebar dari rata-rata.
    ```bash
    df["penjualan_mingguan"].std()
