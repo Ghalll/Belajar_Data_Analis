@@ -29,7 +29,7 @@ Chapter ini akan menjelaskan tools-tools penting dalam Data Analyst
    ```
 
 5. **Nilai Standar**
-   = ini digunakan untuk mencari nilai yang tersebar dari rata-rata
+   = ini digunakan untuk mencari nilai yang tersebar dari rata-rata.
    ```bash
    df["penjualan_mingguan"].std()
    ```
