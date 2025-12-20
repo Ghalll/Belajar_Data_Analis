@@ -39,5 +39,31 @@ Chapter ini akan menjelaskan tools-tools penting dalam Data Analyst
    ```bash
    df["penjualan_mingguan"].quantile(0.75)
    ``` 
-   
-   
+
+## 🔁 Agregasi & ringkasan
+
+1. **Banyak FUngsi**
+   = ini digunakan untuk memakai banyak fungsi sekaligus.
+   ```bash
+   df["penjualan_mingguan"].agg(["mean","max","std"])
+   ```
+
+2. ***Frekuensi kategori**
+   = ini digunakan untuk mencari kemunculan kategori yang tersering.
+   ```bash
+   df["penjualan_mingguan"].value_counts()
+   ```
+
+## 📈 Operasi kumulatif
+
+1. **.cumsum()**
+   = ini digunakan untuk menjumlahkan data bertahap.
+   ```bash
+   df["penjualan_mingguan"].cumsum()
+   ```
+
+2. **.cummax()**
+   = ini digunakan untuk mencatat nilai tertinggi sampai titik itu.
+   ```bash
+   df["penjualan_mingguan"].cummax()
+   ```
