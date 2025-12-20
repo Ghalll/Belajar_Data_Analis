@@ -35,7 +35,7 @@ Chapter ini akan menjelaskan tools-tools penting dalam Data Analyst
    ```
 
 6. **Posisi Data (Persentil)**
-   = ini digunakan untuk mencati nilai
+   = ini digunakan untuk mencati nilai di posisi tertentu
    ```bash
    df["penjualan_mingguan"].quantile(0.75)
    ``` 
