@@ -70,7 +70,7 @@ Chapter ini akan menjelaskan tools-tools penting dalam Data Analyst
 
 ## 🧹 Menghapus data duplicat
 
-1. **drop_duplicates()**
+1. **.drop_duplicates()**
    = ini digunakan untuk mengetahui data yang sama, jika ada yang sama hanya mengambil 1 data saja, lalu sisanya di buang.
    ```bash
    df.drop_duplicates("store")
