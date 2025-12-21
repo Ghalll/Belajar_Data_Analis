@@ -75,3 +75,17 @@ Chapter ini akan menjelaskan tools-tools penting dalam Data Analyst
    ```bash
    df.drop_duplicates("store")
    ```
+
+## 🧰 Tools Lainya
+
+1. **.groupby()**
+   = ini digunakan untuk mengelompokan data lalu menganalisisnya.
+   ```bash
+   df.groupby()
+   ```
+
+2. **.pivot_table()**
+   == ini digunakan untuk mengelompokan data ke bentuk tabel biar rapi, lalu menganalisisnya.
+   ```bash
+   df.pivot_table()
+   ```
