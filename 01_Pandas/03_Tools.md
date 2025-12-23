@@ -89,3 +89,26 @@ Chapter ini akan menjelaskan tools-tools penting dalam Data Analyst
    ```bash
    df.pivot_table()
    ```
+
+3. **loc[]**
+   = ini digunakan untuk mengambil data berdasarkan label.
+    ```bash
+    df.loc[10, "city"]
+    ```
+    Artinya:
+    
+    Ambil baris dengan index = 10
+    
+    Ambil kolom "city"
+    
+   
+5. **iloc[]**
+   = ini digunakan untuk mengambil data berdasarkan posisi.
+   ```bash
+   df.iloc[0, 1])
+   ```
+   Artinya:
+    
+   Baris pertama
+    
+   Kolom kedua
